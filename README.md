@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aqueeb7
 - 👀 I’m interested in Software and API development
-- 🌱 I’m currently learning Fresh
+- 🌱 I’m currently learning quasar
 - 💞️ I’m looking to collaborate on RESTAPI Projects
 - 📫 How to reach me mdaqueeb3@gmail.com
 
